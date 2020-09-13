@@ -1,0 +1,154 @@
+
+element.style {
+}
+.tm-site-header {
+    padding: 60px 70px 30px;
+}
+user agent stylesheet
+header {
+    display: block;
+}
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 19px;
+    line-height: 1.8em;
+    overflow-x: hidden;
+}
+
+element.style {
+}
+.tm-color-primary {
+    color: #309AFD;
+}
+p, span, em, a, address {
+    color: #848586;
+}
+h1 {
+    font-size: 3rem;
+}
+user agent stylesheet
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+}
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 19px;
+    line-height: 1.8em;
+    overflow-x: hidden;
+}
+
+
+element.style {
+}
+.tm-color-gray-2 {
+    color: #98999A;
+}
+p, span, em, a, address {
+    color: #848586;
+}
+h1 {
+    font-size: 3rem;
+}
+user agent stylesheet
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+}
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 19px;
+    line-height: 1.8em;
+    overflow-x: hidden;
+}
+
+.capa {
+    viewport: 1000px 500px;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 0px;
+    position: relative;
+}
+
+
+element.style {
+    width: 711.111px;
+    height: 400px;
+    margin-left: -61.0556px;
+    margin-top: 0px;
+}
+#tm-video {
+    width: 100%;
+    height: auto;
+}
+user agent stylesheet
+video {
+    object-fit: contain;
+}
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 19px;
+    line-height: 1.8em;
+    overflow-x: hidden;
+}
+
+
+element.style {
+}
+.tm-footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+    font-size: 0.9em;
+}
+user agent stylesheet
+footer {
+    display: block;
+}
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 19px;
+    line-height: 1.8em;
+    overflow-x: hidden;
+}
+
+#menu {
+    float: right;
+    margin-right: 5%;
+    list-style: none;
+    margin-top: 0px;
+}
+li {
+    float: left;
+    padding: 1px 10px 1px 10px;
+}
+li:hover {
+    background: #309AFD ;
+
+}
+
+
+.centralizado {
+    text-align: center;
+}
+.justificado {
+    text-align: justify;
+}
+
+.imagem {
+    width: 100%;
+    height: auto;
+}
+
+.coluna {
+    float: left;
+    padding: 0 5%;
+    position: relative;
+}
+.dois {
+    width: 40%;
+}
+
+
+
+
